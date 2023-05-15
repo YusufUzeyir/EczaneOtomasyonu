@@ -29,3 +29,7 @@ Web Sitesini Açma / Projeyi çalıştırabilmek için bir sunucu üzerinden pro
 2) XAMPP uygulamasının dosya yolunu bulun ve htdocs klasörünü açın.
 3) htdocs klasörünün içinde birlikte gelen tüm dosyaları silin ve klasörü temizleyin.
 4) Proje dosyasını htdocs klasörünün içine atın ve projeyi çalıştırın.
+5) Mysql bağlantısını da XAMPP üzerinden çalıştırın.
+6) localhost/phpmyadmin/  sitesine gidin ve ecznae3.sql olarak verdiğim dosyayı içe aktarın.
+
+NOT: (5 ve 6. Adım projeyi görmek için gerekli değil ama tablo içindeki değerleri de görmek istiyorsanız, verileri çekmek istiyorsanız 5 ve 6. adımları da gerçekleştirmeniz gerekli. )
