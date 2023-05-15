@@ -17,9 +17,15 @@ Hasta tablosu /  Tüm tablolarda silme,güncelleme,ekleme işlemlerini yapabilme
 Hasta tablosu / Tablolarda arama yapıp filtreleme de yapılabiliyor.
 ![image](https://github.com/YusufUzeyir/EczaneOtomasyonu/assets/92249669/9e01ec8b-a9ca-4280-8dd0-4675bd5c86f1)
 
-Reçeteler tablosu / Reçetenin hangi hastaya yazıldığını görmek için hasta tablosundaki ID reçete eklerken referansla reçeteler tablousunda gösteriliyor.
+Reçeteler tablosu / Reçetede hangi ilacın yazıldığını veri tabanında referans vererek reçeteler tablosunda ilaç ID kısmında tutuyoruz.
 ![image](https://github.com/YusufUzeyir/EczaneOtomasyonu/assets/92249669/057c0e6e-54b0-459c-a581-277c425cbfa0)
 
 
 
 Uygulama Kullanımı / Giriş yapıldıktan sonra tablolar arasında dolaşma, referans verme , veri ekleme-silme-güncelleme, satış yapıldığında stoktan adedi düşme gibi tüm işlemleri yapılabiliyor.
+
+Web Sitesini Açma / Projeyi çalıştırabilmek için bir sunucu üzerinden projeyi açmanız gerekli. Biz projeyi XAMPP üzerinden yaptığımız için XAMPP üzerinden nasıl çaıştıracağınızı kısaca anlatayım.
+1) XAMPP uygulamasını indirdikten sonra Apache sunucusunu çalıştırın.
+2) XAMPP uygulamasının dosya yolunu bulun ve htdocs klasörünü açın.
+3) htdocs klasörünün içinde birlikte gelen tüm dosyaları silin ve klasörü temizleyin.
+4) Proje dosyasını htdocs klasörünün içine atın ve projeyi çalıştırın.
