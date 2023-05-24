@@ -32,4 +32,4 @@ Web Sitesini Açma / Projeyi çalıştırabilmek için bir sunucu üzerinden pro
 5) Mysql bağlantısını da XAMPP üzerinden çalıştırın.
 6) localhost/phpmyadmin/  sitesine gidin ve ecznae3.sql olarak verdiğim dosyayı içe aktarın.
 
-NOT: (Projeyi çalıştırmak için ilk 4 adımı yapmanız yeterli. Tablo içindeki verileri de görmek isterseniz 5 ve 6 adımlarını da gerçekleştirmeniz gerekli. )
+NOT: (Projeyi çalıştırmak için ilk 4 adımı yapmanız yeterli. Tablo içindeki verileri de görmek isterseniz 5 ve 6. adımlarını da gerçekleştirmeniz gerekli. )
